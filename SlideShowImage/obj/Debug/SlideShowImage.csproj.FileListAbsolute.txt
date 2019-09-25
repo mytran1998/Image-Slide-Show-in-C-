@@ -1,0 +1,10 @@
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\bin\Debug\SlideShowImage.exe.config
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\bin\Debug\SlideShowImage.exe
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\bin\Debug\SlideShowImage.pdb
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.csprojAssemblyReference.cache
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.Form1.resources
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.Properties.Resources.resources
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.csproj.GenerateResource.cache
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.csproj.CoreCompileInputs.cache
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.exe
+E:\Net Framework\Learn\SlideShowImage\SlideShowImage\obj\Debug\SlideShowImage.pdb
